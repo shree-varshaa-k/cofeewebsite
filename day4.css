@@ -1,0 +1,159 @@
+body{
+    margin:0;
+}
+.par1
+{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    position: fixed;
+    height:40px;
+    width:100%;
+    align-items: center;
+    top:0px;
+    z-index:10;
+
+}
+.img{
+    background-image:url("./img/1704968007377.jpg");
+    height: 70vh;
+    width:100vw;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 6px;
+    font-family: monospace;
+
+}
+.img1{
+    margin:0px;
+    color:white;
+    font-size: 80px;
+    font-family: monospace;
+
+}
+.img2{
+    position: absolute;
+    bottom:250px;
+    left:20px;
+    background-color: black;
+    color: white;
+    padding:0px;
+    font-family: monospace;
+    font-size: 15px;
+}
+.img3{
+    position: absolute;
+    bottom:250px;
+    right:20px;
+    font-family: monospace;
+    color: white;
+    padding:0px;
+    font-size: 15px;
+}
+
+.content
+{
+    width:830px;
+    margin:0px auto;
+    font-family: monospace;
+
+    font-size: 20px;
+}
+.ab{
+    background-color: black;
+    color: white;
+    padding:4px;
+    text-align:center;
+    width:fit-content;
+    font-family: monospace;
+
+    margin:70px auto;
+}
+.imgg{
+    background-image:url("./img/1704968007365.jpg");
+    width:57vw;
+    height:60vh;
+    background-position: center;
+    display: flex;
+    font-family: monospace;
+
+    justify-content: center;
+
+}
+.imggg{
+    background-image:url("./img/1704968007365.jpg");
+    width:57vw;
+    height:60vh;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    font-family: monospace;
+
+}
+.menu{
+    position:absolute;
+    background-color: black;
+    color:white;
+    padding:5px;
+    left:700px;
+    font-family: monospace;
+
+font-size: 20px;
+   
+}
+.eat{
+    margin:90px 300px 0px 300px;
+    border:1px;
+    font-family: monospace;
+    font-size: 20px;
+}
+.drink{
+    display:flex;
+    justify-content: space-around;
+    font-family: monospace;
+
+    font-size: 20px;
+}
+.date{
+    width:850px;
+    height:40px;
+}
+.how{
+    width:850px;
+    height:40px;
+}
+.name{
+    width:850px;
+    height:40px;
+}
+.mess{
+    width:850px;
+    height:40px;
+}
+.button{
+    background-color: black;
+    color:white;
+    width:130px;
+    height:40px;
+
+}
+.span{
+    background-color: black;
+    color:white;
+    height: 0px;
+    width:100px;
+}
+.p3{
+    background-color: rgba(221, 248, 248, 0.9);
+    padding: 20px;
+    width:809px;
+ border-style: none none none solid;
+    border-color: rgb(208, 214, 214);
+    border-width:4px;
+    font-style:italic;
+}
